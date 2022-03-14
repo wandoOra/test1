@@ -1,0 +1,25 @@
+{
+  "name": "react-native-device-country",
+  "version": "1.0.2",
+  "summary": "Get device location by telephony (SIM card) or settings without using GPS tracker.",
+  "homepage": "https://github.com/dev-family/react-native-device-country#readme",
+  "license": "MIT",
+  "authors": {
+    "name": "mshekspirtt",
+    "email": "mshekspirt@gmail.com",
+    "url": "https://github.com/mshekspirtt"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source": {
+    "git": "https://github.com/dev-family/react-native-device-country.git",
+    "tag": "1.0.2"
+  },
+  "source_files": "ios/**/*.{h,m,mm}",
+  "dependencies": {
+    "React-Core": [
+
+    ]
+  }
+}
